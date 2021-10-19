@@ -1,0 +1,19 @@
+mi fermo prima dell'incrocio
+mi posiziono in prossimità delle strisce pedonali 
+ -guardo a destra
+ -guardo a sinistra
+SE non passano macchine
+ -attraverso
+ALTRIMENTI
+ -aspetto che non passino macchine
+ -attraverso
+mi trovo in prossimità di un incrocio con semaforo
+ SE il semaforo è verde
+ -mi posiziono in prossimità delle strisce pedonali 
+ -attraverso
+ ALTRIMENTI 
+ -aspetto che le macchine si fermino
+ -che scatti il rosso per le macchine
+ -scatti il verde per i pedoni 
+ -mi posiziono in prossimità delle strisce pedonali 
+ -attraverso 
